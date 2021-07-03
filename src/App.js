@@ -18,7 +18,7 @@ document.head.appendChild(styleLink);
   <h1 style={{color:'black', padding: 10}}>Post</h1>   
       
   <Container style={{ margin: 20}}>
-  <Header as="h3">Hello Everyone..😊 Comment Down Below</Header>
+  <Header as="h3">Hello Everyone..😊</Header>
   
 
  
